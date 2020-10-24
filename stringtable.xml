@@ -299,7 +299,7 @@
 	  <Key
         ID="STR_location_w_pobeda">
         <Original>Pobeda River</Original>
-        <French>Pobeda River</French>
+        <French>Rivière Pobeda</French>
         <Spanish>Pobeda River</Spanish>
         <Italian>Pobeda River</Italian>
         <Hungarian>Pobeda River</Hungarian>
@@ -355,7 +355,7 @@
       <Key
         ID="STR_location_w_baytikhaya">
         <Original>Bay Tikhaya</Original>
-        <French>Baie Tikhaya</French>
+        <French>Baie de Tikhaya</French>
         <Spanish>Bahía de Tikhaya</Spanish>
         <Italian>Baia Tikhaya</Italian>
         <Hungarian>Tikhaja-öböl</Hungarian>
@@ -1405,7 +1405,7 @@
       <Key
         ID="STR_location_mt_altar">
         <Original>Altar Hill</Original>
-        <French>Autel</French>
+        <French>Colline de l'Autel</French>
         <Spanish>Altar</Spanish>
         <Italian>Altar</Italian>
         <Hungarian>Altar</Hungarian>
@@ -1629,7 +1629,7 @@
 	  <Key
         ID="STR_location_tr_caves">
         <Original>Tronicka Cave</Original>
-        <French>Cave de Tronicka</French>
+        <French>Grotte de Tronicka</French>
         <Spanish>Tronicka Cave</Spanish>
         <Italian>Tronicka Cave</Italian>
         <Hungarian>Tronicka Cave</Hungarian>
@@ -1671,7 +1671,7 @@
 	  <Key
         ID="STR_location_batarov_swamp">
         <Original>Batarov Swamp</Original>
-        <French>Marécages Batarov</French>
+        <French>Marécages de Batarov</French>
         <Spanish>Batarov Swamp</Spanish>
         <Italian>Batarov Swamp</Italian>
         <Hungarian>Batarov Swamp</Hungarian>
@@ -1839,7 +1839,7 @@
 	  <Key
         ID="STR_location_bfresort">
         <Original>Black Forest Resort</Original>
-        <French>Resort de Black Forest</French>
+        <French>Complexe de loisirs de Black Forest</French>
         <Spanish>Black Forest Resort</Spanish>
         <Italian>Black Forest Resort</Italian>
         <Hungarian>Black Forest Resort</Hungarian>
